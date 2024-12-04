@@ -1,0 +1,13 @@
+Code References
+
+Youtube links: 
+https://www.youtube.com/watch?v=wFyzmZVKPAw&list=PLaP0IEpkcGXlvDNuaVFK3ec9dLpixW2w3&index=1
+https://www.youtube.com/watch?v=_0-QprLilDk&list=PLaP0IEpkcGXlvDNuaVFK3ec9dLpixW2w3&index=4
+https://youtube.com/playlist?list=PLeb12iNltItErhMLGensr7Jsr0Wwsb8fN&feature=shared
+
+Chat GPT:
+- for fixing problem that I couldn't find the solution to, as shown in the given images
+- asking some code that i couldn't find a tutorial in youtube nor google
+
+Images:
+- found and make those background images in canva
